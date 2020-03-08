@@ -1,2 +1,2 @@
 # coding_challenge_1366
-Python Coding Challenge: Process Metadata From 10million Images. Time: 3hrs
+Python Coding Challenge: Process metadata from 10million images in under 20s. Time: 3hrs
